@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+anthropic
+faster-whisper
+python-dotenv
+pytest
+pytest-asyncio
+httpx
